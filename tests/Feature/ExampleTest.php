@@ -8,6 +8,7 @@ use Tests\TestCase;
 class ExampleTest extends TestCase
 {
     /**
+     * 接続確認
      * A basic test example.
      *
      * @return void
